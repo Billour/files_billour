@@ -13,8 +13,8 @@ import sys
 import pandas as pd
 
 #sys.set_int_max_str_digits(0)
-excel_path = u"D:\\OneDrive\\000雲科大研究所相關\\0 李泰興教授 碩班 011_112-1高速數位電路訊號完整度\\研究生報告進度20240412\\論文列表1.xlsx"
-directory = u"D:\\OneDrive\\000雲科大研究所相關\\0 李泰興教授 碩班 011_112-1高速數位電路訊號完整度\\研究生報告進度20240412\\020_IEEEE論文20240319下載\\"
+excel_path = u"D:\\t\\020_IEEEE20240319\\論文列表1.xlsx"
+directory = u"D:\\t\\020_IEEEE20240319\\"
 
 files = []
 class ls_files:
