@@ -1,2 +1,2 @@
 # files_billour
-This is a an easy-to-use files system, I hope it could help people easy to use and for operating systems like Windows, Linux,  but not for macOS.
+I'll usd VUE.js, django 5, python 3, aws EC2, DynamoDB to build the cloud-file-system. 2024/4/25
