@@ -1,0 +1,1 @@
+#This's stock gap of three and it will read data from stock market.
