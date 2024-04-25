@@ -1,4 +1,4 @@
-# List of Database of supported.
+# List of Supported Databases.
 1. sqlite
 2. aws dynamodb
 
